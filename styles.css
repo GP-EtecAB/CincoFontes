@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+
+body {
+    background-color: #202020;
+    color: white;
+    font-size: 1.5em;
+}
+
+h1 {
+    color: #a07bb1
+}
+
+summary {
+    color: #a07bb1;
+}
+
+.rodape {
+    font-size: 16px;
+}
+
+details:hover {
+    cursor:pointer
+}
+
+.serif {
+    font-family: 'Times New Roman';
+}
+
+.sans-serif {
+    font-family: 'Arial';
+}
+
+.display {
+    font-family: 'Comic Sans MS';
+}
+
+.handwriting {
+    font-family: 'Italianno';
+}
+
+.Monospace {
+    font-family: 'monospace';
+}
